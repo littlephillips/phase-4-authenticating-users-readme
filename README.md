@@ -2,7 +2,8 @@
 
 ## Learning Goals
 
-- Define the term "authentication"
+-  Define the term "authentication"
+   * sdfyuoip[] 
 - Understand how websites use login to authenticate users
 - Follow REST conventions for handling session data
 
